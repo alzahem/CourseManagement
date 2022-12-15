@@ -13,7 +13,8 @@
 	<br>
 	<a href="addTeacher.html">2. Add teacher</a>
 	<br>
-	<a href="ViewCourses.html">3. View courses</a>
+	<a href="ViewClasses
+	.jsp">3. View classes</a>
 	<br>
 	<a href="addClass.html">4. Assign classes</a>
 </body>
